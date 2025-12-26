@@ -1,0 +1,11 @@
+<fieldset>
+    <legend>Your favorite monster</legend>
+    <input type="radio" id="kra" name="m">
+    <label for="kraken">Kraken</label><br/>
+    <input type="radio" id="sas" name="m">
+    <label for="sas">Sasquatch</label>
+</fieldset>
+↓ Preview
+Your favorite monster
+ Kraken
+ Sasquatch
